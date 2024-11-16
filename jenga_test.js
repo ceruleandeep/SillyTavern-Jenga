@@ -5,12 +5,12 @@ let pulledBlocks = [];
 let blockData = [];
 let currentBlock = null; // Keeps track of the block in hand
 
-const mountPoint = '/scripts/extensions/SillyTavern-Jenga';
+const mountPoint = '/scripts/extensions/third-party/SillyTavern-Jenga';
 
 // Load block data from GitHub
 async function loadBlockData() {
     try {
-        const response = await fetch(`${mountPoint}/src/jenga-test.json`);
+        const response = await fetch(`${mountPoint}/jenga-test.json`);
         if (!response.ok) throw new Error('Failed to load block data.');
         blockData = await response.json();
     } catch (error) {
