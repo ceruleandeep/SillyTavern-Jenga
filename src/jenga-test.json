@@ -1,0 +1,220 @@
+{
+    "blocks": [
+        {
+            "block_id": 1,
+            "prompt": "Bark like a dog after each move"
+        },
+        {
+            "block_id": 2,
+            "prompt": "Do 5 jumping jacks before your turn"
+        },
+        {
+            "block_id": 3,
+            "prompt": "Recite the alphabet backwards"
+        },
+        {
+            "block_id": 4,
+            "prompt": "Pretend to be a robot"
+        },
+        {
+            "block_id": 5,
+            "prompt": "Sing a line from your favorite song"
+        },
+        {
+            "block_id": 6,
+            "prompt": "Do a silly dance"
+        },
+        {
+            "block_id": 7,
+            "prompt": "Tell a bad joke"
+        },
+        {
+            "block_id": 8,
+            "prompt": "Make a farm animal noise"
+        },
+        {
+            "block_id": 9,
+            "prompt": "Rub your belly and pat your head"
+        },
+        {
+            "block_id": 10,
+            "prompt": "Name a city for each letter removed"
+        },
+        {
+            "block_id": 11,
+            "prompt": "Do an impression of someone else playing"
+        },
+        {
+            "block_id": 12,
+            "prompt": "Attempt to remove a block with your teeth"
+        },
+        {
+            "block_id": 13,
+            "prompt": "Hop on one foot during your turn"
+        },
+        {
+            "block_id": 14,
+            "prompt": "Speak in a funny accent"
+        },
+        {
+            "block_id": 15,
+            "prompt": "Make up a silly rule for the next player"
+        },
+        {
+            "block_id": 16,
+            "prompt": "Cluck like a chicken after taking your turn"
+        },
+        {
+            "block_id": 17,
+            "prompt": "Do 10 arm circles before moving"
+        },
+        {
+            "block_id": 18,
+            "prompt": "Recite the first 10 digits of pi"
+        },
+        {
+            "block_id": 19,
+            "prompt": "Name a type of cheese for each block moved"
+        },
+        {
+            "block_id": 20,
+            "prompt": "Meow like a cat before your turn"
+        },
+        {
+            "block_id": 21,
+            "prompt": "Attempt to stack the blocks one-handed"
+        },
+        {
+            "block_id": 22,
+            "prompt": "Sing the ABC's while removing a block"
+        },
+        {
+            "block_id": 23,
+            "prompt": "Do your best celebrity impression"
+        },
+        {
+            "block_id": 24,
+            "prompt": "Make up a silly nickname for another player"
+        },
+        {
+            "block_id": 25,
+            "prompt": "Attempt to remove a block with your eyes closed"
+        },
+        {
+            "block_id": 26,
+            "prompt": "Recite the Pledge of Allegiance"
+        },
+        {
+            "block_id": 27,
+            "prompt": "Do 20 jumping jacks after your turn"
+        },
+        {
+            "block_id": 28,
+            "prompt": "Bark like a dog for each block removed"
+        },
+        {
+            "block_id": 29,
+            "prompt": "Name a fruit or vegetable for each move"
+        },
+        {
+            "block_id": 30,
+            "prompt": "Attempt to stack the blocks with your non-dominant hand"
+        },
+        {
+            "block_id": 31,
+            "prompt": "Recite your favorite poem or nursery rhyme"
+        },
+        {
+            "block_id": 32,
+            "prompt": "Do the wave with your arms before each turn"
+        },
+        {
+            "block_id": 33,
+            "prompt": "Hum the tune to a popular song while stacking"
+        },
+        {
+            "block_id": 34,
+            "prompt": "Make up a silly rule that everyone must follow"
+        },
+        {
+            "block_id": 35,
+            "prompt": "Attempt to stack the blocks while doing squats"
+        },
+        {
+            "block_id": 36,
+            "prompt": "Recite the 50 states in alphabetical order"
+        },
+        {
+            "block_id": 37,
+            "prompt": "Do your best dinosaur impression"
+        },
+        {
+            "block_id": 38,
+            "prompt": "Name a breed of dog for each block moved"
+        },
+        {
+            "block_id": 39,
+            "prompt": "Attempt to stack the blocks while hopping on one foot"
+        },
+        {
+            "block_id": 40,
+            "prompt": "Sing \"Twinkle Twinkle Little Star\" during your turn"
+        },
+        {
+            "block_id": 41,
+            "prompt": "Do 10 lunges before removing a block"
+        },
+        {
+            "block_id": 42,
+            "prompt": "Recite the months of the year backwards"
+        },
+        {
+            "block_id": 43,
+            "prompt": "Make up a silly handshake with the next player"
+        },
+        {
+            "block_id": 44,
+            "prompt": "Attempt to stack the blocks with your eyes closed"
+        },
+        {
+            "block_id": 45,
+            "prompt": "Sing the chorus of your favorite song"
+        },
+        {
+            "block_id": 46,
+            "prompt": "Do 15 calf raises before your turn"
+        },
+        {
+            "block_id": 47,
+            "prompt": "Name a country for each block removed"
+        },
+        {
+            "block_id": 48,
+            "prompt": "Attempt to stack the blocks while doing squats"
+        },
+        {
+            "block_id": 49,
+            "prompt": "Recite a tongue twister 3 times fast"
+        },
+        {
+            "block_id": 50,
+            "prompt": "Do your best impersonation of a famous person"
+        },
+        {
+            "block_id": 51,
+            "prompt": "Eat a whole banana before taking your turn"
+        },
+        {
+            "block_id": 52,
+            "prompt": "Attempt to stack the blocks with your feet"
+        },
+        {
+            "block_id": 53,
+            "prompt": "Sing the Happy Birthday song during your turn"
+        },
+        {
+            "block_id": 54,
+            "prompt": "Do 20 jumping jacks while removing a block"
+        }
+    ]
+}

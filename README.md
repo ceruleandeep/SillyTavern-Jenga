@@ -1,4 +1,4 @@
-# SillyTavern Extension Example
+# SillyTavern Jenga
 
 *Provide a brief description of how your extension works, what problem it aims to solve.*
 
@@ -14,15 +14,18 @@
 
 ### Usage
 
-*Explain how to use this extension.*
+`/jenga [start|pull|place|reset]`
 
-## Prerequisites
-
-*Specify the version of ST necessary here.*
+```
+!startjenga
+!pullblock
+!placeblock
+!resetjenga
+```
 
 ## Support and Contributions
 
-*Where should someone ask for support?*
+*Where should someone ask for support?* 
 
 *Consider including your own contact info for help/questions.*
 
@@ -30,4 +33,4 @@
 
 ## License
 
-*Be cool, use an open source license.*
+AGPL-3.0
